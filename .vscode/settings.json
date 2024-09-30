@@ -4,3 +4,19 @@
         ".vscode": true,
       }
 }
+
+{
+    "editor.minimap.enabled": false,
+    "editor.inlayHints.enabled": "off",
+    "files.exclude": {
+        "**/.devcontainer": true,
+        "**/.vscode": true,
+    },
+    "git.autofetch": true,
+    "workbench.tree.indent": 30,
+    "workbench.tree.renderIndentGuides": "always",
+    "workbench.colorCustomizations": {
+        "tree.indentGuidesStroke": "#05ef3c"
+    },
+    "workbench.colorTheme": "Default Dark Modern",
+}
