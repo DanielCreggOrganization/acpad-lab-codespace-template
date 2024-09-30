@@ -1,11 +1,4 @@
 {
-    "files.exclude": {
-        ".devcontainer": true,
-        ".vscode": true,
-      }
-}
-
-{
     "editor.minimap.enabled": false,
     "editor.inlayHints.enabled": "off",
     "files.exclude": {
