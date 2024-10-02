@@ -10,8 +10,8 @@
     "customizations": {
         "vscode": {
             "extensions": [
-                "GitHub.copilot@pre-release",
-                "GitHub.copilot-chat@pre-release"
+                "GitHub.copilot@prerelease",
+                "GitHub.copilot-chat@prerelease"
             ]
         }
     }
