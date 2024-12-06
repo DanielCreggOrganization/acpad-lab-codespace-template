@@ -4,6 +4,7 @@
     "files.exclude": {
         "**/.devcontainer": true,
         "**/.vscode": true,
+        "**/.github": true,
     },
     "git.autofetch": true,
     "workbench.tree.indent": 30,
